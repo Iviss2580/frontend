@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "public": "dist/proyecto integrador ivana molina",
+    "public": "dist/proyectointegrador-ivana-molina",
     "ignore": [
       "firebase.json",
       "**/.*",
