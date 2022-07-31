@@ -7,7 +7,7 @@ import { Educacion } from '../model/educacion';
   providedIn: 'root'
 })
 export class EducacionService {
-  URL = 'https://agile-brook-70145.herokuapp.com/'; 
+  URL = 'https://agile-brook-70145.herokuapp.com/educacion/'; 
 
   constructor(private httpClient : HttpClient) { }
 
